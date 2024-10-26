@@ -434,8 +434,3 @@ if not DEBUG:
     AWS_DEFAULT_ACL = None
 
 
-
-
-
-
-
