@@ -258,7 +258,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "accounts.apps.AccountsConfig",
+    #"accounts.apps.AccountsConfig",
     "infra.apps.InfraConfig", # アプリ名
     "storages", # 追加
 ]
